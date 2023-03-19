@@ -74,31 +74,31 @@ export const footer: Footer = {
       links: [
         {
           name: "GitHub",
-          link: "https://github.com/braydentw",
+          link: "https://github.com/aslam",
           icon: "/static/icons/github-f.svg",
           leavesWebsite: true,
         },
         {
           name: "LinkedIn",
-          link: "https://www.linkedin.com/in/braydentw/",
+          link: "https://www.linkedin.com/in/aslam/",
           icon: "/static/icons/linkedin-f.svg",
           leavesWebsite: true,
         },
         {
           name: "Dribbble",
-          link: "https://dribbble.com/braydentw",
+          link: "https://dribbble.com/aslam",
           icon: "/static/icons/dribbble-f.svg",
           leavesWebsite: true,
         },
         {
           name: "IndieHackers",
-          link: "https://indiehackers.com/braydentw",
+          link: "https://indiehackers.com/aslam",
           icon: "/static/icons/indiehackers-f.svg",
           leavesWebsite: true,
         },
         {
           name: "Email",
-          link: "mailto:contact@braydentw.io",
+          link: "mailto:contact@thefullstackdeveloper.com",
           icon: "/static/icons/mail-f.svg",
           leavesWebsite: true,
         },
@@ -107,7 +107,7 @@ export const footer: Footer = {
   ],
   support: {
     buymeacoffee: "braydenw",
-    paypal: "braydentw",
+    paypal: "aslam",
     message: "I appreciate your support very much! 💙",
   },
 };
